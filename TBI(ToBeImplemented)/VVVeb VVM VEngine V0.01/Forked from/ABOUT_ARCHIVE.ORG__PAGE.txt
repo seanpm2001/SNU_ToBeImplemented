@@ -1,0 +1,16 @@
+The Emularity Engine Collection Version 1
+Publication date 2016-04
+This item contains the driving engines behind "The Emularity", a collection of emulators
+optimized for browser viewing, including javascript/webassembly version of MAME, DOSBOX,
+SCRIPTED AMIGA EMULATOR, and PCE.
+
+Click on the "SHOW ALL" link to view the full collection of support files.
+
+All *.js.gz files are javascript modules executed in the browser.
+All .json files are configurations of the operation of the emulator.
+Identifieremularity_engine_v1
+ScannerInternet Archive Python library 0.9.1
+plus-circle Add Review
+comment
+Reviews
+There are no reviews yet. Be the first one to write a review.
